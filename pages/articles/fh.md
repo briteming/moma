@@ -1,5 +1,6 @@
 ---
 title: 战马
+date: 2025-12-17T18:09:00
 description: 这是一篇文章
 cover: /images/martin-sanchez-gD3dUQpMlvk-unsplash.jpg
 ---
